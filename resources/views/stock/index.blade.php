@@ -5,7 +5,7 @@
 @section('content_header')
 
     <div class="d-flex justify-content-between">
-        <h1>Dashboard</h1>
+        <h1>Stocks</h1>
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#newStock">
             Create a new Stock
         </button>
@@ -75,7 +75,7 @@
                             </div>
                             <div class="modal-footer">
                                 <a class="btn btn-secondary" data-dismiss="modal">Close</a>
-                                <button type="submit" class="btn btn-primary">Save changes</button>
+                                <button type="submit" class="btn btn-primary">Add</button>
                             </div>
                         </div>
                         </div>
